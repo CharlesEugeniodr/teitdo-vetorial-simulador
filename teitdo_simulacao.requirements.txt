@@ -1,0 +1,8 @@
+
+---
+
+## 🧾 **3. Arquivo: `requirements.txt`**
+```txt
+numpy
+matplotlib
+pandas
